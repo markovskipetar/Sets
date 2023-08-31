@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Petar-Popravka.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ConcatCriteria.cpp">
+    <ClCompile Include="StartUp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

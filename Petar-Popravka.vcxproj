@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConcatCriteria.cpp" />
-    <ClCompile Include="Petar-Popravka.cpp" />
+    <ClCompile Include="StartUp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ConcatCriteria.h" />

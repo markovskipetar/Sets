@@ -66,7 +66,7 @@ void Engine<T>::Run()
 		binaryFileReader.close();
 	}
 
-	std::cout << resultSet.contains("pppetar.date");
+	std::cout << resultSet.contains("ppetar.date");
 
 	FactoryReader<T>::freeInstance();
 }

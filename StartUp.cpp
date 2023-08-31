@@ -281,10 +281,11 @@ int main()
 	createSecondNormalSet();
 	createIntervalSet();
 	createCriteriaSubStringSet();
+
 	/*createCriteriaConcatSet();
 	createIntersectOfIntervalSets();
 	createUnionOfIntervalSets();*/
 
-	Engine<std::string> e;
-	e.Run();
+	Engine<std::string> engine;
+	engine.Run();
 }
